@@ -181,7 +181,7 @@ elementWorth = {
     "vine": 0.1,
     "cactus": 0.1,
     "cloner": 0,
-    "wall": 0,
+    "wall": 0.1,
     "fire": 0,
     "smoke": 0,
     "plasma": 0,
